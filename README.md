@@ -1,2 +1,2 @@
 # metagameboxsdkdemo
-metagameboxsdk
+metagameboxsdk Android sdk demo project
