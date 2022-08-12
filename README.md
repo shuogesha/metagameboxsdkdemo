@@ -37,3 +37,15 @@ implementation("io.github.shuogesha:metagameboxsdk:0.1.0")
 
 
 ```
+
+
+#问题：安卓29以上无法调起，AndroidManifest.xml配置如下：
+
+
+```
+<queries> 
+    <package android:name="com.metadreamer.MetaGameBox" />
+</queries>
+
+```
+
